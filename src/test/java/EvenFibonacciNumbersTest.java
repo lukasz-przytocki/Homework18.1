@@ -24,7 +24,7 @@ public class EvenFibonacciNumbersTest {
     }
 
     @Test
-    public void shouldReturn44for44() {
+    public void shouldReturn44for10() {
         //given
         EvenFibonacciNumbers evenFibonacciNumbers = new EvenFibonacciNumbers();
         //when
